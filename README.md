@@ -1,16 +1,23 @@
 [![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)](https://jancarloonce.github.io/about-me/)
 <h1 align="center">Hi 👋, I'm Jan Carlo Once</h1>
-<h3 align="center">Software Engineer | Data Engineer | Open-Source Advocate | Pythonista</h3>
+<h3 align="center">A passionate Software Engineer from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jancarloonce&label=Profile%20views&color=0e75b6&style=flat" alt="jancarloonce" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jancarloonce" alt="jancarloonce" /></a> </p>
 
+- 🔭 I’m currently working on **IBM**
+
+- 🌱 I’m currently learning **Scala and Typescript**
+
+- 💬 Ask me about **Python and Elasticsearch**
+
 - 📫 How to reach me **jancarloonce11@gmail.com**
 
 - 📄 Know about my experiences [https://jancarloonce.github.io/about-me/](https://jancarloonce.github.io/about-me/)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
