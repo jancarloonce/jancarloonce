@@ -1,6 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)](https://jancarloonce.github.io/about-me/)
 <h1 align="center">Hi 👋, I'm Jan Carlo Once</h1>
 <h3 align="center">Software Engineer | Data Engineer | Open-Source Advocate | Pythonista</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jancarloonce&label=Profile%20views&color=0e75b6&style=flat" alt="jancarloonce" /> </p>
 
