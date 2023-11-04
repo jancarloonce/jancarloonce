@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jan Carlo Once</h1>
 <h3 align="center">A passionate Software Engineer from the Philippines</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/da/42/78da42c5b6907b2ead1eedde2f1aaf75.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jancarloonce&label=Profile%20views&color=0e75b6&style=flat" alt="jancarloonce" /> </p>
 
 
