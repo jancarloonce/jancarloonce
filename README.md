@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently working on **IBM**
+- 🔭 I’m currently working on **Adaca**
 
 - 🌱 I’m currently learning **Scala and Typescript**
 
