@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **IBM**
+- 🔭 I’m currently working on **Adaca**
 
 - 🌱 I’m currently learning **Scala and Typescript**
 
@@ -24,20 +24,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jancarloonce" alt="jancarloonce" /></a> </p>
 
-
-
-
-- 🔭 I’m currently working on **Adaca**
-
-- 🌱 I’m currently learning **Scala and Typescript**
-
-- 💬 Ask me about **Python and Elasticsearch**
-
-- 📫 How to reach me **jancarloonce11@gmail.com**
-
-- 📄 Know about my experiences [https://jancarloonce.github.io/about-me/](https://jancarloonce.github.io/about-me/)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
