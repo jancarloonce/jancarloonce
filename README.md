@@ -22,7 +22,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jancarloonce" alt="jancarloonce" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jancarloonce&column=-1&theme=monokai" alt="jancarloonce" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
