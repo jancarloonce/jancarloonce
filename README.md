@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **jancarloonce11@gmail.com**
 
-- 📄 Know about my experiences [https://jancarloonce.github.io/about-me/](https://jancarloonce.github.io/about-me/)
+- 📄 Know about my experiences [https://jancarloonce.com](https://jancarloonce.com)
 
-- ⚡ Fun fact **I think I am funny**
+
 
 
 
