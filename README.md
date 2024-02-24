@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Scala and Typescript**
+- 🌱 I’m currently learning **Scala and Mojo**
 
 - 💬 Ask me about **Python and Elasticsearch**
 
