@@ -21,7 +21,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jancarloonce&column=-1&theme=dracula&rank=-C,-B,-?" alt="github-trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=jancarloonce&theme=dracula&row=2&column=4" alt="github-trophy" /></a> </p>
 
 
 
