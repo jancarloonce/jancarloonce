@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **jancarloonce11@gmail.com**
 
-- 📄 Know about my experiences [https://jancarloonce.com](https://jancarloonce.com)
 
 
 
